@@ -2,6 +2,8 @@
 
 This is a quick template to get started with GotLang hot reload and test algorithms in real time.
 
+### Instalation
+
 This project uses:
 
 - Air for hot reload
@@ -37,3 +39,5 @@ or
 ```bash
 air -d
 ```
+### Demo
+![Jul-14-2023 09-34-37](https://github.com/mendesbarreto/hot-reload-golang-template/assets/2684784/104c7eec-5dfe-439b-99b5-ff40104291ca)
