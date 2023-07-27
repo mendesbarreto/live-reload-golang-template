@@ -1,8 +1,8 @@
-# Hot relload GotLang templates
+# Live reload GotLang templates
 
-This is a quick template to get started with GotLang hot reload and test algorithms in real time.
+This is a quick template to get started with GotLang live reload and test algorithms in real-time.
 
-### Instalation
+### Installation
 
 This project uses:
 
